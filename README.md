@@ -1,9 +1,7 @@
 # ZF2 Todo List #
----
 Simple example of a todo list app with ZF2.
 
 # Installation #
----
 1. Clone repo
 2. Run Composer in app diretory
 3. Set up the database
@@ -16,7 +14,6 @@ In the directory of the cloned app:
 ```
 
 # Database #
----
 Create a Database (MySQL).
 
 In that database, create a table:
@@ -51,6 +48,5 @@ return array(
 ```
 
 # Other #
----
 Make sure to follow [ZF2 Documentation](http://framework.zend.com/manual/2.3/en/user-guide/skeleton-application.html) for any questions on hosting the app or any other problems.
 
